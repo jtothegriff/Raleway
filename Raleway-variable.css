@@ -1,6 +1,6 @@
 @font-face {
  font-family: "Raleway Variable"; /* Custom name forces the webpage to use our Raleway variable instead of any system version installed */
- src: url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-VF.woff2') format('woff2 supports variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-VF.woff2') format('woff2-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-VF.woff') format('woff-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-VF.ttf') format('truetype-variations')
+ src: url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-VF.woff2') format('woff2 supports variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-VF.woff2') format('woff2-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-VF.woff') format('woff-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-VF.ttf') format('truetype-variations')
  font-weight: 100 900;
  font-style: normal;
  font-display: swap;
@@ -8,7 +8,7 @@
 }
 @font-face {
  font-family: "Raleway Variable"; /* Custom name forces the webpage to use our Raleway variable instead of any system version installed */
- src: url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-Italic-VF.woff2') format('woff2 supports variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-Italic-VF.woff2') format('woff2-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-Italic-VF.woff') format('woff-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/blob/main/Raleway-Italic-VF.ttf') format('truetype-variations')
+ src: url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-Italic-VF.woff2') format('woff2 supports variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-Italic-VF.woff2') format('woff2-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-Italic-VF.woff') format('woff-variations'), url('https://cdn.staticdelivr.com/gh/jtothegriff/Raleway/main/Raleway-Italic-VF.ttf') format('truetype-variations')
  font-weight: 100 900;
  font-style: italic;
  font-display: swap;
